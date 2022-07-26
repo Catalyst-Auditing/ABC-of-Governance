@@ -10,3 +10,7 @@
 ## Project Management
 
 * [Reporting](project-management/reporting.md)
+
+## Terms
+
+* [Decentralization](terms/decentralization.md)
