@@ -16,4 +16,6 @@ After researching, preparing, presenting and facilitating conversations in Catal
 
 Examples include : _permissionless, decentralized, distributed, delegated voting, etc ._
 
+{% hint style="info" %}
 This kind of ambiguity of meaning has also been identified as "Semantic confusion" in "[Clarifying and Defining the Concept of Liquid Democracy](https://onlinelibrary.wiley.com/doi/full/10.1111/spsr.12486)". 2021. Chiara Valsangiacomo.
+{% endhint %}
