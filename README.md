@@ -10,7 +10,9 @@ ABC of Governance was funded by Project Catalyst in it's Fund 8 Miscellaneous Ch
 
 ## Original Proposal
 
-Follow the link below to see the original proposal on the Ideascale platform&#x20;
+{% hint style="info" %}
+Follow the link below to see the **original proposal** on the Ideascale platform&#x20;
+{% endhint %}
 
 {% embed url="https://cardano.ideascale.com/c/idea/398140" %}
 
