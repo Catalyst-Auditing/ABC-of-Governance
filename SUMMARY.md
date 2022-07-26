@@ -5,7 +5,7 @@
 ## Overview
 
 * [First Principles](overview/first-principles.md)
-* [Meet the Team!](overview/meet-the-team.md)
+* [Method](overview/method.md)
 
 ## Project Management
 
