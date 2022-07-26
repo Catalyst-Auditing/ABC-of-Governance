@@ -2,10 +2,10 @@
 
 * [The ABC of Governance](README.md)
 
-## The Company
+## Overview
 
-* [Vision and Values](the-company/vision-and-values.md)
-* [Meet the Team!](the-company/meet-the-team.md)
+* [First Principles](overview/first-principles.md)
+* [Meet the Team!](overview/meet-the-team.md)
 
 ## Project Management
 
