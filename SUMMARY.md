@@ -10,4 +10,3 @@
 ## Project Management
 
 * [Reporting](project-management/reporting.md)
-* [Filing Expenses](project-management/filing-expenses.md)
