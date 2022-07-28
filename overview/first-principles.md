@@ -12,6 +12,14 @@ coverY: 0
 **What are first principles ?**
 {% endhint %}
 
+The First Principles approach seeks to encourage you to "Think for yourself".
+
+Rooted in the Socratric method of Ancient Classical Philosophy the First Principles approach has been advocated more recently by Richard Feynman (see the [Feynman Principles](https://blog.dtssydney.com/richard-feynmans-principles-of-scientific-thinking)) and Elon Musk ([The First Principles Method Explained by Elon Musk)](https://youtu.be/NV3sBlRgzTI).
+
+###
+
+###
+
 ### Define your terms
 
 What do you mean when you use a term such as permissionless or decentralised ?
