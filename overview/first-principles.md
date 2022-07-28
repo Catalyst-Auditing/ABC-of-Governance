@@ -12,9 +12,11 @@ coverY: 0
 **What are first principles ?**
 {% endhint %}
 
+### Think for yourself
+
 The First Principles approach seeks to encourage you to "Think for yourself".
 
-Rooted in the Socratric method of Ancient Classical Philosophy the First Principles approach has been advocated more recently by Richard Feynman (see the [Feynman Principles](https://blog.dtssydney.com/richard-feynmans-principles-of-scientific-thinking)) and Elon Musk ([The First Principles Method Explained by Elon Musk)](https://youtu.be/NV3sBlRgzTI).
+Rooted in the Socratic method of Ancient Classical Philosophy the First Principles approach has been advocated by Voltaire ("_Think for yourself and let others enjoy the privilege of doing so too_.") and more recently by Richard Feynman (see the [Feynman Principles](https://blog.dtssydney.com/richard-feynmans-principles-of-scientific-thinking)) and Elon Musk ([The First Principles Method Explained by Elon Musk)](https://youtu.be/NV3sBlRgzTI).
 
 ### Thinking for yourself can be lonely
 
@@ -25,4 +27,14 @@ Rooted in the Socratric method of Ancient Classical Philosophy the First Princip
 ### Define your terms
 
 What do you mean when you use a term such as permissionless or decentralised ?
+
+
+
+## Resources
+
+### First Principles Thinking Adopted from Aristotle
+
+[https://www.jumpstarthealth.co/blog-1/first-principles-thinking-adopted-from-aristotle](https://www.jumpstarthealth.co/blog-1/first-principles-thinking-adopted-from-aristotle)
+
+
 
