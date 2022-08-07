@@ -1,4 +1,6 @@
 ---
+cover: >-
+  https://images.unsplash.com/photo-1592431913823-7af6b323da9b?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwzfHxhbHBoYWJldHxlbnwwfHx8fDE2NTk5MTI4NTI&ixlib=rb-1.2.1&q=80
 coverY: 0
 ---
 
