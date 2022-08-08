@@ -10,6 +10,8 @@ coverY: 0
 
 ABC of Governance was funded by Project Catalyst in it's Fund 8 Miscellaneous Challenge.
 
+{% embed url="https://youtu.be/KPN07Z6-VFk" %}
+
 ## Original Proposal
 
 {% hint style="info" %}
