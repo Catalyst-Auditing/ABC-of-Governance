@@ -10,6 +10,7 @@
 ## Terms
 
 * [Decentralization](terms/decentralization.md)
+* [Voltaire Principles](terms/voltaire-principles.md)
 
 ## Project Management
 
