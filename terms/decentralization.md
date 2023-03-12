@@ -6,4 +6,4 @@ coverY: 0
 
 # Decentralization
 
-Decentralization
+{% embed url="https://youtu.be/7w_5BQXYJfI" %}
