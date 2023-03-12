@@ -9,6 +9,7 @@
 
 ## Terms
 
+* [Blockchain Improvement Proposals](terms/blockchain-improvement-proposals.md)
 * [Decentralization](terms/decentralization.md)
 * [Voltaire Principles](terms/voltaire-principles.md)
 
