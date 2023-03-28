@@ -2,7 +2,7 @@
 
 ## Skin in the game
 
-aaaa
+The phrase "Skin in the game"&#x20;
 
 ## The phrase "Skin in the game"
 
