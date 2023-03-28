@@ -12,6 +12,7 @@
 * [Blockchain Improvement Proposals](terms/blockchain-improvement-proposals.md)
 * [Decentralization](terms/decentralization.md)
 * [Reputation](terms/reputation.md)
+* [Skin in the game](terms/skin-in-the-game.md)
 * [Voltaire Principles](terms/voltaire-principles.md)
 
 ## Project Management
