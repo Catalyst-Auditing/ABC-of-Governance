@@ -40,6 +40,8 @@ Participation in a blockchain can be characerised as a kind of strategic allianc
 
 ### Common Interests
 
+A critical measure of a blockchain is how well it can moderate the self-interest of agents seeking to control principal particpants. As long as the chain is sufficently decentralised the common interest of an operational distributed ledger will prevail.&#x20;
+
 ### Congruent goals
 
 ### Unbounded rationality
