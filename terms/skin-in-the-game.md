@@ -18,7 +18,7 @@ The influence of those who have a large stake may be obscured resulting in a lac
 
 The principal-agent relationship may be between management (agent) and shareholders (principal), or elected officials (agent) and voters (principal), or brokers (agent) and buyers/sellers in a market (principal).
 
-Where there is an asymmetry between agent and principal there will be concerns about moral hazard (decisions about amount of risk) and conflict of interest.
+Where there is an asymmetry between agent and principal there will be concerns about moral hazard (exposure to risk) and conflict of interest (corruption).
 
 ## Taleb's "Skin in the game"
 
