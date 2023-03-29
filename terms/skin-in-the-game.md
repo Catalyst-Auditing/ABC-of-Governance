@@ -24,7 +24,7 @@ Where there is an asymmetry between agent and principal there will be concerns a
 
 In the context of blockchain technologies the question arises of what is the nature of the principal-agent relationship in permissioned and/or permissionless chains.
 
-Partipation in a blockchain can be characerised as a kind of strategic alliance between software developers, miners, stakepools, coin holders and other stakeholders that build on the tools and communities on the infrastructure.
+Partipation in a blockchain can be characerised as a kind of strategic alliance between software developers, miners, stakepools, coin holders and other stakeholders that build tools and communities on the infrastructure.
 
 ## Taleb's "Skin in the game"
 
