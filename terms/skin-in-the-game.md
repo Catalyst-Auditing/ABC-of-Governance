@@ -8,7 +8,7 @@ The more that was owned by management, the equity stake, was seen as an indicati
 
 ## The phrase "Skin in the game"
 
-aaaa
+Hence the phrase "skin in the game" has come to be seen as having a stake or personal investment that motivates decision making or partipation.&#x20;
 
 ## Principal–agent problem
 
