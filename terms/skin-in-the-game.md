@@ -12,7 +12,7 @@ Hence the phrase "skin in the game" has come to be seen as having a stake or per
 
 ## Principal–agent problem
 
-The tendency of "skin in the game" to prejudice decisions in favour of what a person has a personal stake in is called the "principal-agent problem".
+"Skin in the game" can be a problem when there is an excess of interest or investment that prejudices partipation and/or decision-making. This tendency is called the "principal-agent problem".
 
 ## Taleb's "Skin in the game"
 
