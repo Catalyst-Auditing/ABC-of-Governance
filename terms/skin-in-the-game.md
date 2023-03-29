@@ -16,6 +16,8 @@ Hence the phrase "skin in the game" has come to be seen as having a stake or per
 
 The influence of those who have a large stake may be obscured resulting in a lack of transparency that disadvantages or manipulates those with smaller stakes.&#x20;
 
+The principal-agent relationship may be between management (agent) and shareholders (principal), or elected officals (agent) and voters (principal)
+
 ## Taleb's "Skin in the game"
 
 aa
