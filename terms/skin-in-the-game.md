@@ -2,7 +2,7 @@
 
 ## Skin in the game
 
-The phrase "Skin in the game" originated in the1980s and referred to an investment owner's equity stake&#x20;
+The phrase "Skin in the game" originated in the 1980s and referred to an investment owner's equity stake&#x20;
 
 
 
