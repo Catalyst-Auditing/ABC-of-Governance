@@ -22,7 +22,7 @@ Where there is an asymmetry between agent and principal there will be concerns a
 
 ## Blockchain agency theory <a href="#screen-reader-main-title" id="screen-reader-main-title"></a>
 
-
+In the context of blockchain technologies the question arises of what is the nature of the principal-agent relationship in permissioned and permissionless chains.
 
 ## Taleb's "Skin in the game"
 
