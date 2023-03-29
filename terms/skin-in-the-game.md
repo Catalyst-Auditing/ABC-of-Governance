@@ -26,6 +26,12 @@ In the context of blockchain technologies the question arises of what is the nat
 
 Partipation in a blockchain can be characerised as a kind of strategic alliance between software developers, miners, stakepools, coin holders and other stakeholders that build tools and communities on the infrastructure.
 
+{% hint style="info" %}
+[Blockchain agency theory](https://www.sciencedirect.com/science/article/pii/S0040162523001671)
+{% endhint %}
+
+{% embed url="https://www.sciencedirect.com/science/article/pii/S0040162523001671" %}
+
 ## Taleb's "Skin in the game"
 
 aa
