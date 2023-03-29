@@ -36,6 +36,22 @@ Participation in a blockchain can be characerised as a kind of strategic allianc
 
 {% embed url="https://www.sciencedirect.com/science/article/pii/S0040162523001671" %}
 
+## Blockchain agency theory assumptions
+
+### Common Interests
+
+### Congruent goals
+
+### Unbounded rationality
+
+### Information symmetry
+
+### Smart contracts
+
+### Mean risk
+
+### Information availability
+
 ## Taleb's "Skin in the game"
 
 aa
