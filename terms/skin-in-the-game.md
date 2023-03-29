@@ -20,6 +20,10 @@ The principal-agent relationship may be between management (agent) and sharehold
 
 Where there is an asymmetry between agent and principal there will be concerns about moral hazard (exposure to risk) and conflict of interest (corruption).
 
+{% hint style="info" %}
+[Principal-agent problem](https://en.wikipedia.org/wiki/Principal%E2%80%93agent\_problem)
+{% endhint %}
+
 ## Blockchain agency theory <a href="#screen-reader-main-title" id="screen-reader-main-title"></a>
 
 In the context of blockchain technologies the question arises of what is the nature of the principal-agent relationship in permissioned and/or permissionless chains.
