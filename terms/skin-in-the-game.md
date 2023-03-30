@@ -80,7 +80,7 @@ A critical measure of a blockchain is how well it can moderate the self-interest
 
 ## Differences in Blockchain levels and use cases
 
-The "Blockchain Agency Theory" paper does not investigate how different blockchain consensus paradihms, governance practices and use cases may alter the principal-agent relationship.
+The "Blockchain Agency Theory" paper does not investigate how different blockchain consensus paradigms, governance practices and use cases may alter the principal-agent relationship.
 
 ### Management (agent) and shareholders (principal)
 
