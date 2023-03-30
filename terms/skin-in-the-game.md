@@ -30,7 +30,7 @@ In the context of blockchain technologies the question arises of what is the nat
 
 Participation in a blockchain can be characterized as a kind of strategic alliance between software developers, miners, stakepools, coin holders and other stakeholders that build tools and communities on the infrastructure.
 
-Governance takes the form of consensus alogerthims that ideally regulate blockchain transactions&#x20;
+Governance takes the form of consensus algorithms that ideally regulate blockchain transactions&#x20;
 
 {% hint style="info" %}
 [Blockchain agency theory](https://www.sciencedirect.com/science/article/pii/S0040162523001671)
