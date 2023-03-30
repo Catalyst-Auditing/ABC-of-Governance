@@ -32,7 +32,7 @@ Governance takes the form of consensus algorithms that ideally regulate blockcha
 
 Participation in a blockchain ecosystem can be characterized as a kind of strategic alliance between software developers, miners, stakepools, coin holders and other stakeholders that build tools and communities on the infrastructure.
 
-Blockchain agency theory, as outlined in a recent paper
+Blockchain agency theory, as outlined in a recent paper, seeks to identify shifts in the principal-agent problem caused by disruptive technologies.&#x20;
 
 {% hint style="info" %}
 **Title:** Blockchain agency theory
