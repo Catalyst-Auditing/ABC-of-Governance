@@ -64,7 +64,7 @@ The first assumption of Agency theory is that of self-interest. That agents are 
 
 ### Common Interests
 
-A critical measure of a blockchain is how well it can moderate the self-interest of agents seeking to control principal participants. As long as the chain is sufficiently decentralised the common interest of an operational distributed ledger will prevail.&#x20;
+A critical measure of a blockchain is how well it can moderate the self-interest of agents seeking to control principal participants. As long as the chain is sufficiently decentralized the common interest of an operational distributed ledger will prevail.&#x20;
 
 ### Congruent goals
 
@@ -80,11 +80,13 @@ A critical measure of a blockchain is how well it can moderate the self-interest
 
 ## Differences in Blockchain levels and use cases
 
-Management (agent) and shareholders (principal)
+The "Blockchain Agency Theory" paper does not investigate how different blockchain consensus paradihms, governance practices and use cases may alter the principal-agent relationship.
 
-Elected officials (agent) and voters (principal)
+### Management (agent) and shareholders (principal)
 
-Brokers (agent) and buyers/sellers in a market (principal).
+### Elected officials (agent) and voters (principal)
+
+### Brokers (agent) and buyers/sellers in a market (principal).
 
 ## Taleb's "Skin in the game"
 
