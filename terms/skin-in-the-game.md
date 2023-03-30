@@ -88,7 +88,11 @@ A principal-agent relationship may persist in DAOs with smart contracts ...
 
 ### Elected officials (agent) and voters (principal)
 
-### Brokers (agent) and buyers/sellers in a market (principal).
+Elections run on-chain may require agent intermediateries ...
+
+### Brokers (agent) and buyers/sellers in a market (principal)
+
+Financial instruements or products such as NFTs may require regulation and reporting ...
 
 ## Taleb's "Skin in the game"
 
