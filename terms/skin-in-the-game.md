@@ -34,9 +34,9 @@ Participation in a blockchain ecosystem can be characterized as a kind of strate
 
 Blockchain agency theory, as outlined in a recent paper
 
-Blockchain agency theory
-
 {% hint style="info" %}
+**Title:** Blockchain agency theory
+
 **Author:** Adah-Kole Emmanuel Onjewu,Nigel Walton,Ioannis Koliousis
 
 **Publication:** Technological Forecasting and Social Change
