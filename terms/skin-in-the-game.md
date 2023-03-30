@@ -78,6 +78,14 @@ A critical measure of a blockchain is how well it can moderate the self-interest
 
 ### Information availability
 
+## Differences in Blockchain levels and use cases
+
+Management (agent) and shareholders (principal)
+
+Elected officials (agent) and voters (principal)
+
+Brokers (agent) and buyers/sellers in a market (principal).
+
 ## Taleb's "Skin in the game"
 
 aa
