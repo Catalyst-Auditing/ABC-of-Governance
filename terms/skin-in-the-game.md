@@ -58,7 +58,9 @@ The "Blockchain agency theory" paper identifies 7 assumptions that have informed
 
 ### Self-interest / Common Interests
 
-The first assumption of Agency theory is that of self-interest. That agents are inclined to opportunistically reward themselves.
+The first assumption of Agency theory is that of self-interest. That agents are inclined to opportunistically reward themselves.&#x20;
+
+Ideally a blockchain will moderate the self-interest of agents seeking to control principal participants. As long as the chain is sufficiently decentralized the common interest of an operational distributed ledger will prevail.&#x20;
 
 ## Blockchain agency theory assumptions
 
