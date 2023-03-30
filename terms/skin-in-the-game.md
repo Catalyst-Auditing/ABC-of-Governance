@@ -1,4 +1,4 @@
-# "Skin in the game" & Agency Theory
+# Agency Theory & "Skin in the game"
 
 ## Skin in the game
 
