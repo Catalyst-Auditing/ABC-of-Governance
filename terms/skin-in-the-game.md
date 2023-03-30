@@ -54,7 +54,7 @@ Blockchain agency theory, as outlined in a recent paper, seeks to identify shift
 
 ## What principal–agent relationships have changed ?
 
-The "Blockchain agency theory" paper identifies 7 assumptions that have informed analysis of the principal-agent problem and paired these with 7 counter assumptions that apply to the new blockchain paradigm.&#x20;
+The "Blockchain agency theory" paper identifies 7 assumptions that have informed analysis of the principal-agent problem and pairs these with 7 counter assumptions that apply to the new blockchain paradigm.&#x20;
 
 
 
