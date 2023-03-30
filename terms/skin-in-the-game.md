@@ -84,6 +84,8 @@ The "Blockchain Agency Theory" paper does not investigate how different blockcha
 
 ### Management (agent) and shareholders (principal)
 
+A principal-agent relationship may&#x20;
+
 ### Elected officials (agent) and voters (principal)
 
 ### Brokers (agent) and buyers/sellers in a market (principal).
