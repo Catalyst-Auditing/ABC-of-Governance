@@ -26,7 +26,7 @@ Where there is an asymmetry between agent and principal there will be concerns a
 
 ## Blockchain agency theory <a href="#screen-reader-main-title" id="screen-reader-main-title"></a>
 
-In the context of blockchain technologies the question arises of what is the nature of the principal-agent relationship in permissioned and/or permissionless chains. Where is agency in an environmnet that is ideally decentralised ? &#x20;
+In the context of blockchain technologies the question arises of what is the nature of the principal-agent relationship in permissioned and/or permissionless chains. Where is agency in an environment that is ideally decentralised ?  Are there still parties (principal) who delegate work to others (agents) ?&#x20;
 
 Participation in a blockchain can be characerised as a kind of strategic alliance between software developers, miners, stakepools, coin holders and other stakeholders that build tools and communities on the infrastructure.
 
