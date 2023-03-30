@@ -84,7 +84,7 @@ The "Blockchain Agency Theory" paper does not investigate how different blockcha
 
 ### Management (agent) and shareholders (principal)
 
-A principal-agent relationship may&#x20;
+A principal-agent relationship may persist in DAOs with smart contracts ...
 
 ### Elected officials (agent) and voters (principal)
 
