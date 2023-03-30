@@ -52,6 +52,14 @@ Blockchain agency theory, as outlined in a recent paper, seeks to identify shift
 
 {% embed url="https://www.sciencedirect.com/science/article/pii/S0040162523001671" %}
 
+## What principal–agent relationships have changed ?
+
+
+
+
+
+
+
 ## Blockchain agency theory assumptions
 
 ### Common Interests
