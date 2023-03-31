@@ -28,7 +28,7 @@ Where there is an asymmetry between agent and principal there will be concerns a
 
 In the context of blockchain technologies the question arises of what is the nature of the principal-agent relationship in permissioned and/or permissionless chains.&#x20;
 
-### Where is the Agency in a Blockchain environment ?
+### Where is Agency in a Blockchain environment ?
 
 Where is agency in an environment that is ideally decentralized ?  Are there still parties (principal) who delegate work to others (agents) ?&#x20;
 
