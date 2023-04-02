@@ -92,18 +92,6 @@ xx
 
 
 
-### Common Interests
-
-A critical measure of a blockchain is how well it can moderate the self-interest of agents seeking to control principal participants. As long as the chain is sufficiently decentralized the common interest of an operational distributed ledger will prevail.&#x20;
-
-### Congruent goals
-
-### Unbounded rationality
-
-### Information symmetry
-
-### Smart contracts
-
 ### Mean risk
 
 ### Information availability
