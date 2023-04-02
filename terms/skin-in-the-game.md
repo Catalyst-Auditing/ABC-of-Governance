@@ -60,6 +60,8 @@ Blockchain agency theory, as outlined in a recent paper, seeks to identify shift
 
 The "Blockchain agency theory" paper identifies 7 assumptions that have informed analysis of the principal-agent problem and pairs these with 7 counter assumptions that may apply to the new blockchain paradigm.&#x20;
 
+Rather than the principal-agent relationship, the interactions in blockchain alliances take a many-to-many dimension and an ecosystem dynamic to co-evolve and co-create value in a mutual sequence.
+
 ### Self-interest / Common Interests
 
 The first assumption of Agency theory is that of self-interest. That agents are inclined to opportunistically reward themselves.&#x20;
@@ -68,7 +70,7 @@ Ideally a blockchain will moderate the self-interest of agents seeking to contro
 
 
 
-Rather than the principal-agent relationship, the interactions in blockchain alliances take a many-to-many dimension and an ecosystem dynamic to co-evolve and co-create value in a mutual sequenc
+
 
 ## Blockchain agency theory assumptions
 
