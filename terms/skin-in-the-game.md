@@ -38,6 +38,8 @@ Participation in a blockchain ecosystem can be characterized as a kind of strate
 
 Blockchain agency theory, as outlined in a recent paper, seeks to identify shifts in the principal-agent problem caused by disruptive technologies.&#x20;
 
+<figure><img src="../.gitbook/assets/blockchain-agency-theory.png" alt=""><figcaption></figcaption></figure>
+
 {% hint style="info" %}
 **Title:** Blockchain agency theory
 
