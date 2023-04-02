@@ -80,9 +80,17 @@ xx
 
 xx
 
+### Information asymmetry / Information symmetry
+
+xx
+
+### Pre-eminence of efficiency / Smart contracts
+
+xx
 
 
-## Blockchain agency theory assumptions
+
+
 
 ### Common Interests
 
