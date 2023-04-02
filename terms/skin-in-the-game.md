@@ -72,11 +72,11 @@ Ideally a blockchain will moderate the self-interest of agents seeking to contro
 
 ### Conflicting goals / Congruent goals
 
-"To circumvent the threat of conflicting goals in blockchain alliances, from the outset, members determine and agree how their data and transactions are to be represented on the blockchain, the rules governing the transactions and algorithms for resolving disputes"
+<mark style="color:red;">"To circumvent the threat of conflicting goals in blockchain alliances, from the outset, members determine and agree how their data and transactions are to be represented on the blockchain, the rules governing the transactions and algorithms for resolving disputes"</mark>
 
-"Thus, ab initio, communication channels in blockchain alliances serve to reconcile conflicting goals by predefining the governance rules of impending transactions"
+<mark style="color:red;">"Thus, ab initio, communication channels in blockchain alliances serve to reconcile conflicting goals by predefining the governance rules of impending transactions"</mark>
 
-"Fundamentally, in the design phase of the blockchain, parties in an alliance are incentivised to frame their collaborative efforts ‘towards the joint pursuit of a common objective and value creation’"
+<mark style="color:red;">"Fundamentally, in the design phase of the blockchain, parties in an alliance are incentivised to frame their collaborative efforts ‘towards the joint pursuit of a common objective and value creation’"</mark>
 
 
 
