@@ -1,6 +1,6 @@
 # Agency Theory & "Skin in the game"
 
-## Risk aversionSkin in the game
+## Skin in the game
 
 The phrase "Skin in the game" originated in the 1980s and referred to the amount of an investment owned by a companies' management soliciting outside investment.&#x20;
 
