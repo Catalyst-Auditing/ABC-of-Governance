@@ -74,7 +74,7 @@ Ideally a blockchain will moderate the self-interest of agents seeking to contro
 
 The second agency theory assumption is that principals and agents have divergent objectives. For example, agents will seek to maximize their income from their specialized capability and principals seek to maximize their return using the agents capability. These divergent objectives can lead to a reduction in effort by the agent seeking to maximize their income and consequently less return for the principals.&#x20;
 
-
+Blockchains seek to reconcile these conflicting goals when governance rules are defined in the blockchain design.&#x20;
 
 
 
