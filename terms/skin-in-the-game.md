@@ -74,17 +74,7 @@ Ideally a blockchain will moderate the self-interest of agents seeking to contro
 
 The second agency theory assumption is that principals and agents have divergent objectives. For example, agents will seek to maximize their income from their specialized capability and principals seek to maximize their return using the agents capability. These divergent objectives can lead to a reduction in effort by the agent seeking to maximize their income and consequently less return for the principals.&#x20;
 
-Blockchains seek to reconcile these conflicting goals when governance rules are defined in the blockchain design.&#x20;
-
-
-
-<mark style="color:red;">"To circumvent the threat of conflicting goals in blockchain alliances, from the outset, members determine and agree how their data and transactions are to be represented on the blockchain, the rules governing the transactions and algorithms for resolving disputes"</mark>
-
-<mark style="color:red;">"Thus, ab initio, communication channels in blockchain alliances serve to reconcile conflicting goals by predefining the governance rules of impending transactions"</mark>
-
-<mark style="color:red;">"Fundamentally, in the design phase of the blockchain, parties in an alliance are incentivised to frame their collaborative efforts ‘towards the joint pursuit of a common objective and value creation’"</mark>
-
-
+Blockchains seek to reconcile these conflicting goals when governance rules are defined in the blockchain design. Members of a blockchain community ideally determine and agree governance of how data and transactions are represented and disputes resolved onchain. This is often framed in terms of common objectives and partipation in value creation from stakeholders.&#x20;
 
 ### Bounded rationality / Unbounded rationality
 
