@@ -74,13 +74,21 @@ Ideally a blockchain will moderate the self-interest of agents seeking to contro
 
 The second agency theory assumption is that principals and agents have divergent objectives. For example, agents will seek to maximize their income from their specialized capability and principals seek to maximize their return using the agents capability. These divergent objectives can lead to a reduction in effort by the agent seeking to maximize their income and consequently less return for the principals.&#x20;
 
-Blockchains seek to reconcile these conflicting goals when governance rules are defined in the blockchain design. Members of a blockchain community ideally determine and agree governance of how data and transactions are represented and disputes resolved onchain. This is often framed in terms of common objectives and partipation in value creation from stakeholders.&#x20;
+Blockchains seek to reconcile these conflicting goals when governance rules are defined in the blockchain design. Members of a blockchain community ideally determine and agree governance of how data and transactions are represented and disputes resolved onchain. This is often framed in terms of common objectives and participation in value creation from stakeholders.&#x20;
 
 ### Bounded rationality / Unbounded rationality
 
+"In the third assumption, agency theory reasons that contracted parties are boundedly rational or, in other words, intendedly logical to the extent that they do not foresee all eventualities of the contract"
+
+"Being ‘intendedly logical’ means that decisions are made only on the strength of principals and agents' cognition, prior experiences, expertise, available time and known routines"
+
+"This leads to a satisficing behaviour in which managers make rational decisions to achieve satisfactory rather than optimal economic outcomes"
+
+The third agency assumption suggests that parties to a contract have limited or bounded rationality. This leads to a conservative approach to decision making where agents and principals fall back on their contingent knowledge and situation. what is satisfactory to meet a contract rather than exploiting all economic outcomes.
 
 
-xx
+
+
 
 ### Information asymmetry / Information symmetry
 
