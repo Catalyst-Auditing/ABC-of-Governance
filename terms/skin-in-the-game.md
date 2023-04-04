@@ -72,7 +72,7 @@ Ideally a blockchain will moderate the self-interest of agents seeking to contro
 
 ### Conflicting goals / Congruent goals
 
-The second agency theory assumption is that principals and agents have divergent objectives. For example, agents will seek to maximise their income from their specialized capability and prinipals seek to maximise their return using the agents capability. These divergent objectives can lead to a reduction in effort by the agent seeking to maximise their income and consequently less return for the principals.&#x20;
+The second agency theory assumption is that principals and agents have divergent objectives. For example, agents will seek to maximize their income from their specialized capability and prinipals seek to maximise their return using the agents capability. These divergent objectives can lead to a reduction in effort by the agent seeking to maximise their income and consequently less return for the principals.&#x20;
 
 
 
