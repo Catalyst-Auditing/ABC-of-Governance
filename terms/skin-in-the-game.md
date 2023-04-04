@@ -66,7 +66,7 @@ Rather than the principal-agent relationship, the interactions in blockchain all
 
 ### Self-interest / Common Interests
 
-The first assumption of Agency theory is that of self-interest. That agents are inclined to opportunistically reward themselves.&#x20;
+A key assumption of Agency theory is that of self-interest. That agents are inclined to opportunistically reward themselves.&#x20;
 
 Ideally a blockchain will moderate the self-interest of agents seeking to control principal participants. As long as the chain is sufficiently decentralized the common interest of an operational distributed ledger will prevail.&#x20;
 
