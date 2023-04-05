@@ -78,13 +78,7 @@ Blockchains seek to reconcile these conflicting goals when governance rules are 
 
 ### Bounded rationality / Unbounded rationality
 
-"In the third assumption, agency theory reasons that contracted parties are boundedly rational or, in other words, intendedly logical to the extent that they do not foresee all eventualities of the contract"
-
-"Being ‘intendedly logical’ means that decisions are made only on the strength of principals and agents' cognition, prior experiences, expertise, available time and known routines"
-
-"This leads to a satisficing behaviour in which managers make rational decisions to achieve satisfactory rather than optimal economic outcomes"
-
-The third agency assumption suggests that parties to a contract have limited or bounded rationality. This leads to a conservative approach to decision making where agents and principals fall back on their contingent knowledge and situation. what is satisfactory to meet a contract rather than exploiting all economic outcomes.
+The third agency assumption suggests that parties to a contract have limited or bounded rationality. This leads to a conservative approach to decision making where agents and principals fall back on their contingent knowledge and situation. Agents only do what is satisfactory to meet a contract rather than exploiting all economic outcomes.&#x20;
 
 
 
