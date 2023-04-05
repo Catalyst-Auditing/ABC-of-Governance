@@ -80,7 +80,7 @@ Blockchains seek to reconcile these conflicting goals when governance rules are 
 
 The third agency assumption suggests that parties to a contract have limited or bounded rationality. This leads to a conservative approach to decision making where agents and principals fall back on their contingent knowledge and situation. Agents only do what is satisfactory to meet a contract rather than exploiting all economic outcomes.&#x20;
 
-
+In contrast, permissionless blockchains are unbounded in the sense of being networks with open data and accessible information.
 
 
 
