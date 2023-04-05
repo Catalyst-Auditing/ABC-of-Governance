@@ -92,6 +92,8 @@ The fourth agency theory assumption is that there is an uneven distribution of i
 
 "Particularly, where agents are professionals, their highly specialised and abstract knowledge are a barrier to effective supervision and causes an intrinsic ambiguity in the service provided and efforts exerted"
 
+"describe this occurrence as incomplete information producing uncertainty. It may stem from the opportunism of agents withholding information from principals or other managers, or the ambiguous implications of new information. Hence, in agency theory, contracts seek to specify mechanisms that minimise information hoarding"
+
 ### Pre-eminence of efficiency / Smart contracts
 
 xx
