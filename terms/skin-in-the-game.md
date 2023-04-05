@@ -80,15 +80,7 @@ Blockchains seek to reconcile these conflicting goals when governance rules are 
 
 The third agency assumption suggests that parties to a contract have limited or bounded rationality. This leads to a conservative approach to decision making where agents and principals fall back on their contingent knowledge and situation. Agents only do what is satisfactory to meet a contract rather than exploiting all economic outcomes.&#x20;
 
-In contrast, permissionless blockchains are unbounded in the sense of being networks with open data and accessible information.
-
-
-
-"Whereas bounded rationality in agency theory holds that transactions are executed within the limits of principal and agents' cognition, experience and available time, permissionless blockchains are open networks that are data and information rich"
-
-"There is also an added transparency that enables users to access all available information, thus optimising economic performance. As an example, the permissionless Ethereum platform has averted bounded rationality by virtue of being open-source and allowing access to the public to join the alliance"
-
-"Although rationality cannot be completely unbounded, open-sourcing in permissionless blockchains makes it possible to contract for more eventualities than is feasible in conventional principal-agent relationships. Thus, unbounded rationality is realised by the fusion of artificial intelligence \[AI] and cryptographic signatures within blockchains."
+In contrast, permissionless blockchains are unbounded in the sense of being networks with open data, open source code and accessible information. Ideally this eases bounds on rationality making it possible with AI enhancements to optimize contracts and maximize economic performance.&#x20;
 
 ### Information asymmetry / Information symmetry
 
