@@ -84,7 +84,11 @@ In contrast, permissionless blockchains are unbounded in the sense of being netw
 
 ### Information asymmetry / Information symmetry
 
-xx
+The fourth agency theory assumption is that there is an uneven distribution of intelligence between principals and agents.
+
+
+
+&#x20;information asymmetry is the postulation that there is an uneven distribution of intelligence between principals and agents ([Eisenhardt, 1989](https://www.sciencedirect.com/science/article/pii/S0040162523001671#bb0285)), and this leads to an imprecise knowledge of firm value as well as different predictions of performance
 
 ### Pre-eminence of efficiency / Smart contracts
 
