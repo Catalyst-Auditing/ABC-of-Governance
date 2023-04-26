@@ -64,25 +64,25 @@ The "Blockchain agency theory" paper identifies 7 assumptions that have informed
 
 Rather than the principal-agent relationship, the interactions in blockchain alliances take a many-to-many dimension and an ecosystem dynamic to co-evolve and co-create value in a mutual sequence.
 
-### Self-interest / Common Interests
+### 1 - Self-interest / Common Interests
 
 The first assumption of Agency theory is that of self-interest. That agents are inclined to opportunistically reward themselves.&#x20;
 
 Ideally a blockchain will moderate the self-interest of agents seeking to control principal participants. As long as the chain is sufficiently decentralized the common interest of an operational distributed ledger will prevail.&#x20;
 
-### Conflicting goals / Congruent goals
+### 2 - Conflicting goals / Congruent goals
 
 The second agency theory assumption is that principals and agents have divergent objectives. For example, agents will seek to maximize their income from their specialized capability and principals seek to maximize their return using the agents capability. These divergent objectives can lead to a reduction in effort by the agent seeking to maximize their income and consequently less return for the principals.&#x20;
 
 Blockchains seek to reconcile these conflicting goals when governance rules are defined in the blockchain design. Members of a blockchain community ideally determine and agree governance of how data and transactions are represented and disputes resolved onchain. This is often framed in terms of common objectives and participation in value creation from stakeholders.&#x20;
 
-### Bounded rationality / Unbounded rationality
+### 3 - Bounded rationality / Unbounded rationality
 
 The third agency assumption suggests that parties to a contract have limited or bounded rationality. This leads to a conservative approach to decision making where agents and principals fall back on their contingent knowledge and situation. Agents only do what is satisfactory to meet a contract rather than exploiting all economic outcomes.&#x20;
 
 In contrast, permissionless blockchains are unbounded in the sense of being networks with open data, open source code and accessible information. Ideally this eases bounds on rationality making it possible with AI enhancements to optimize contracts and maximize economic performance.&#x20;
 
-### Information asymmetry / Information symmetry
+### 4 - Information asymmetry / Information symmetry
 
 The fourth agency theory assumption is that there is an uneven distribution of intelligence between principals and agents. The agents hold more information than principals which inhibits the ability of the principals to monitor whether their interests are being served. The specialized knowledge of agents can act as a barrier to effective supervision and ambiguity in understanding by the principals.
 
@@ -98,15 +98,15 @@ In contrast, the transparency of blockchain ledgers and their algorithmic govern
 
 <mark style="color:red;">Data-driven management and governance overturn prior concerns of information asymmetry through a decentralised peer-to-peer proof-of-work mechanism (</mark>[<mark style="color:red;">Nakamoto, 2008</mark>](https://www.sciencedirect.com/science/article/pii/S0040162523001671#bb0595)<mark style="color:red;">;</mark> [<mark style="color:red;">Ølnes et al., 2017</mark>](https://www.sciencedirect.com/science/article/pii/S0040162523001671#bb0615)<mark style="color:red;">;</mark> [<mark style="color:red;">Guo et al., 2020</mark>](https://www.sciencedirect.com/science/article/pii/S0040162523001671#bb0335)<mark style="color:red;">). In practice, this warrants a member of a blockchain alliance to compute a memory-hard function, while another member makes a verifier request via channel communication to confirm that the memories have been filled by the proper function (</mark>[<mark style="color:red;">Biryukov and Khovratovich, 2017</mark>](https://www.sciencedirect.com/science/article/pii/S0040162523001671#bb0125)<mark style="color:red;">). Consequently, there is greater information symmetry in blockchain alliances. Moreover, in permissionless blockchains, alliance members maintain an identical copy of the ledger and information consensus is achieved by continuously synchronising all copies to ensure accuracy and recency (</mark>[<mark style="color:red;">Fan et al., 2018</mark>](https://www.sciencedirect.com/science/article/pii/S0040162523001671#bb0295)<mark style="color:red;">). Also, although alliance members do not publicise their identities during transactions, their activities are traceable and visible across the entire network and can be reconstructed for accuracy at any time (</mark>[<mark style="color:red;">Hellier et al., 2020</mark>](https://www.sciencedirect.com/science/article/pii/S0040162523001671#bb0365)<mark style="color:red;">).</mark>
 
-### Pre-eminence of efficiency / Smart contracts
+### 5 - Pre-eminence of efficiency / Smart contracts
 
 xx
 
-### Risk aversion / Mean risk
+### 6 - Risk aversion / Mean risk
 
 ###
 
-### Information as a commodity / Information availability
+### 7 - Information as a commodity / Information availability
 
 ## Differences in Blockchain levels and use cases
 
