@@ -86,13 +86,13 @@ In contrast, permissionless blockchains are unbounded in the sense of being netw
 
 The fourth agency theory assumption is that there is an uneven distribution of intelligence between principals and agents. The agents hold more information than principals which inhibits the ability of the principals to monitor whether their interests are being served. The specialized knowledge of agents can act as a barrier to effective supervision and ambiguity in understanding by the principals.
 
-" information asymmetry is the postulation that there is an uneven distribution of intelligence between principals and agents, and this leads to an imprecise knowledge of firm value as well as different predictions of performance"
+<mark style="color:blue;">" information asymmetry is the postulation that there is an uneven distribution of intelligence between principals and agents, and this leads to an imprecise knowledge of firm value as well as different predictions of performance"</mark>
 
-"There is a contention that agents hold more information than principals, and this lop-sidedness has an adverse effect on the ability of principals to effectively monitor whether their interests are being served"
+<mark style="color:blue;">"There is a contention that agents hold more information than principals, and this lop-sidedness has an adverse effect on the ability of principals to effectively monitor whether their interests are being served"</mark>
 
-"Particularly, where agents are professionals, their highly specialised and abstract knowledge are a barrier to effective supervision and causes an intrinsic ambiguity in the service provided and efforts exerted"
+<mark style="color:blue;">"Particularly, where agents are professionals, their highly specialised and abstract knowledge are a barrier to effective supervision and causes an intrinsic ambiguity in the service provided and efforts exerted"</mark>
 
-"describe this occurrence as incomplete information producing uncertainty. It may stem from the opportunism of agents withholding information from principals or other managers, or the ambiguous implications of new information. Hence, in agency theory, contracts seek to specify mechanisms that minimise information hoarding"
+<mark style="color:blue;">"describe this occurrence as incomplete information producing uncertainty. It may stem from the opportunism of agents withholding information from principals or other managers, or the ambiguous implications of new information. Hence, in agency theory, contracts seek to specify mechanisms that minimise information hoarding"</mark>
 
 ### Pre-eminence of efficiency / Smart contracts
 
