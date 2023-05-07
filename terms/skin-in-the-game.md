@@ -100,6 +100,10 @@ The fourth agency theory assumption is that there is an uneven distribution of i
 
 In contrast, the transparency of blockchain ledgers and their algorithmic governance mitigate concerns of information asymmetry through decentralised consensus mechanisms. Members who use a permissionless blockchains maintain an identical copy of the ledger and information consensus is achieved by continuously synchronising all it's copies to ensure accuracy. All activities are traceable and visible across the entire network and can be reconstructed for audit at any time.
 
+{% hint style="info" %}
+Information symmetry is achieved through transparent access to the ledger and consensus mechanisms.
+{% endhint %}
+
 ### 5 - Pre-eminence of efficiency / Smart contracts
 
 The fifth assumption of agency theory is that ‘principals and agents will choose the most efficient contract’. Consquently any contract is driven by a cost-benefit analysis that seeks the least cost for the highest performance.
