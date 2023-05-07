@@ -70,7 +70,9 @@ The first assumption of Agency theory is that of self-interest. That agents are 
 
 Ideally a blockchain will moderate the self-interest of agents seeking to control principal participants. As long as the chain is sufficiently decentralized the common interest of an operational distributed ledger will prevail.&#x20;
 
+{% hint style="info" %}
 The self-interest of both parties is mitigated by an alignment of incentives and interests.
+{% endhint %}
 
 ### 2 - Conflicting goals / Congruent goals
 
