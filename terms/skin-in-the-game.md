@@ -90,6 +90,10 @@ The third agency assumption suggests that parties to a contract have limited or 
 
 In contrast, permissionless blockchains are unbounded in the sense of being networks with open data, open source code and accessible information. Ideally this eases bounds on rationality making it possible with AI enhancements to optimize contracts and maximize economic performance.&#x20;
 
+{% hint style="info" %}
+Individual constraints on rationality are superseded with unbounded access to knowledge thus optimizing contracts and economic performance.
+{% endhint %}
+
 ### 4 - Information asymmetry / Information symmetry
 
 The fourth agency theory assumption is that there is an uneven distribution of intelligence between principals and agents. The agents hold more information than principals which inhibits the ability of the principals to monitor whether their interests are being served. The specialized knowledge of agents can act as a barrier to effective supervision and ambiguity in understanding by the principals.
