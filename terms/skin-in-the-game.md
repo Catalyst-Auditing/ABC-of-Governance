@@ -86,7 +86,7 @@ In contrast, permissionless blockchains are unbounded in the sense of being netw
 
 The fourth agency theory assumption is that there is an uneven distribution of intelligence between principals and agents. The agents hold more information than principals which inhibits the ability of the principals to monitor whether their interests are being served. The specialized knowledge of agents can act as a barrier to effective supervision and ambiguity in understanding by the principals.
 
-In contrast, the transparency of blockchain ledgers and their algorithmic governance mitigate concerns of information asymmetry through decentralised consensus mechanisms.
+In contrast, the transparency of blockchain ledgers and their algorithmic governance mitigate concerns of information asymmetry through decentralised consensus mechanisms. Members who use a permissionless blockchains maintain an identical copy of the ledger and information consensus is achieved by continuously synchronising all it's copies to ensure accuracy.
 
 <mark style="color:blue;">" information asymmetry is the postulation that there is an uneven distribution of intelligence between principals and agents, and this leads to an imprecise knowledge of firm value as well as different predictions of performance"</mark>
 
