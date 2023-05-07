@@ -68,13 +68,17 @@ Rather than the principal-agent relationship, the interactions in blockchain all
 
 The first assumption of Agency theory is that of self-interest. That agents are inclined to opportunistically reward themselves.&#x20;
 
-Ideally a blockchain will moderate the self-interest of agents seeking to control principal participants. As long as the chain is sufficiently decentralized the common interest of an operational distributed ledger will prevail. The self-interest of both parties is mitigated by an alignment of incentives and interest.
+Ideally a blockchain will moderate the self-interest of agents seeking to control principal participants. As long as the chain is sufficiently decentralized the common interest of an operational distributed ledger will prevail.&#x20;
+
+The self-interest of both parties is mitigated by an alignment of incentives and interests.
 
 ### 2 - Conflicting goals / Congruent goals
 
 The second agency theory assumption is that principals and agents have divergent objectives. For example, agents will seek to maximize their income from their specialized capability and principals seek to maximize their return using the agents capability. These divergent objectives can lead to a reduction in effort by the agent seeking to maximize their income and consequently less return for the principals.&#x20;
 
 Blockchains seek to reconcile these conflicting goals when governance rules are defined in the blockchain design. Members of a blockchain community ideally determine and agree governance of how data and transactions are represented and disputes resolved onchain. This is often framed in terms of common objectives and participation in value creation from stakeholders.&#x20;
+
+Goals are balanced by an alignment of incentives and interests.
 
 ### 3 - Bounded rationality / Unbounded rationality
 
