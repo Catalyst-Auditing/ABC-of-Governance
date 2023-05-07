@@ -146,6 +146,8 @@ aa
 
 ### Mitigation of information asymmetry in a principal-agent relationship
 
+#### ChatGPT 3
+
 To mitigate the information asymmetry in a principal-agent relationship, the principal can employ various strategies and mechanisms. Here are some common strategies:
 
 1. **Screening**: The principal can design screening mechanisms to gather information about the agent's characteristics, abilities, or effort level. This can involve the use of tests, interviews, or other assessments to gain insights into the agent's qualifications or suitability for the task.
