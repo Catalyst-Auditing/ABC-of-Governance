@@ -80,7 +80,9 @@ The second agency theory assumption is that principals and agents have divergent
 
 Blockchains seek to reconcile these conflicting goals when governance rules are defined in the blockchain design. Members of a blockchain community ideally determine and agree governance of how data and transactions are represented and disputes resolved onchain. This is often framed in terms of common objectives and participation in value creation from stakeholders.&#x20;
 
+{% hint style="info" %}
 Goals are balanced by an alignment of incentives and interests.
+{% endhint %}
 
 ### 3 - Bounded rationality / Unbounded rationality
 
