@@ -141,3 +141,18 @@ aa
 ### Blockchain Governance Principles
 
 {% embed url="https://quality-assurance-dao.gitbook.io/ekphrasis/february-2022/blockchain-governance-principles" %}
+
+## Appendix
+
+### Mitigation of information asymmetry in a principal-agent relationship
+
+To mitigate the information asymmetry in a principal-agent relationship, the principal can employ various strategies and mechanisms. Here are some common strategies:
+
+1. Screening: The principal can design screening mechanisms to gather information about the agent's characteristics, abilities, or effort level. This can involve the use of tests, interviews, or other assessments to gain insights into the agent's qualifications or suitability for the task.
+2. Incentive Alignment: The principal can design incentive structures that align the agent's interests with their own. By structuring the contract to link the agent's compensation or rewards to specific performance metrics or outcomes, the principal can encourage the agent to reveal their private information and put forth their best effort.
+3. Monitoring and Reporting: The principal can implement monitoring mechanisms to observe the agent's actions and performance. This can involve regular reporting, progress updates, or periodic evaluations to ensure the agent is accountable and provide feedback on their performance.
+4. Reputation and Repeat Interactions: The principal can consider the agent's reputation and past track record when selecting an agent. Agents with a good reputation or a history of trustworthy behavior are more likely to act in the principal's interest. Repeat interactions with the same agent also create incentives for the agent to maintain a good reputation and maintain a positive relationship with the principal.
+5. Auditing and Verification: In some cases, the principal may need to conduct audits or verification procedures to validate the agent's actions or outputs. This can help ensure that the agent is adhering to the agreed-upon terms and meeting the required standards.
+6. Information Sharing: The principal can provide the agent with relevant information or resources that can improve the agent's decision-making. By sharing information, the principal can reduce the information gap and improve the agent's ability to act in the principal's best interest.
+
+It's worth noting that the strategies employed to mitigate information asymmetry will depend on the specific context and nature of the principal-agent relationship. The principal may need to assess the costs and benefits of each strategy and determine the most appropriate combination based on the level of information asymmetry and the desired outcomes.
