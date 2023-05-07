@@ -132,3 +132,8 @@ Financial instruments or products such as NFTs may require regulation and report
 
 aa
 
+## References
+
+### Blockchain Governance Principles
+
+{% embed url="https://quality-assurance-dao.gitbook.io/ekphrasis/february-2022/blockchain-governance-principles" %}
