@@ -111,7 +111,7 @@ The fifth assumption of agency theory is that ‘principals and agents will choo
 Ideally, the use of blockchain smart contracts acts as a countermeasure to the pre-eminence of efficiency in principal-agent relationships. Smart contracts are programs that automatically execute transactions based on predetermined conditions. They eliminate the need for reconciling errors and automate workflows without involving third parties. In complex transactions, such as those in blockchain alliances, smart contracts significantly enhance transaction efficiency, rendering cost/benefit analyses unnecessary.
 
 {% hint style="info" %}
-The tendency to prioristse efficiency in the principal / agent relationship can be reduced by separating out administration and execution with smart contracts.
+The tendency to prioritize efficiency in the principal / agent relationship can be reduced by separating out administration and execution with smart contracts.
 {% endhint %}
 
 ### 6 - Risk aversion / Mean risk
