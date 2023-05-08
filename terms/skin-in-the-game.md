@@ -116,7 +116,7 @@ The tendency to prioritize efficiency in the principal / agent relationship can 
 
 ### 6 - Risk aversion / Mean risk
 
-The sixth assumption of agency theory is that "agents are more risk averse than principals because they ‘are unable to diversify their employment' while prinipals 'are capabale of diversifying their investments'.
+The sixth assumption of agency theory is that "agents are more risk averse than principals because they ‘are unable to diversify their employment' while principals 'are capabale of diversifying their investments'.
 
 ###
 
