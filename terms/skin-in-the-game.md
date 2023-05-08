@@ -108,9 +108,7 @@ Information symmetry is achieved through transparent access to the ledger and co
 
 The fifth assumption of agency theory is that ‘principals and agents will choose the most efficient contract’. Consquently any contract is driven by a cost-benefit analysis that seeks the least cost for the highest performance. This pre-eminence of efficiency limits human reflection and choice, reducing contracts to objective but superficial agreements.
 
-Idewally, the use of blockchain smart contracts acts as a countermeasure to the pre-eminence of efficiency in principal-agent relationships
-
-To counter this tendency Smart contracts are programs that automatically execute transactions based on predetermined conditions. They eliminate the need for reconciling errors and automate workflows without involving third parties. In complex transactions, such as those in blockchain alliances, smart contracts significantly enhance transaction efficiency, rendering cost/benefit analyses unnecessary.
+Ideally, the use of blockchain smart contracts acts as a countermeasure to the pre-eminence of efficiency in principal-agent relationships. Smart contracts are programs that automatically execute transactions based on predetermined conditions. They eliminate the need for reconciling errors and automate workflows without involving third parties. In complex transactions, such as those in blockchain alliances, smart contracts significantly enhance transaction efficiency, rendering cost/benefit analyses unnecessary.
 
 
 
