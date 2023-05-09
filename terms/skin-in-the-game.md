@@ -118,9 +118,9 @@ The tendency to prioritize efficiency in the principal / agent relationship can 
 
 The sixth assumption of agency theory is that "agents are more risk averse than principals because they ‘are unable to diversify their employment' while principals 'are capable of diversifying their investments'.
 
-A possible solution is mean-risk sharing where individuals contribute their individual losses to a pool and are responsible for the expected loss based on the total pool loss. Risk is collectively shared among all parties involved
+A possible solution is mean-risk sharing where individuals contribute their individual losses to a pool and are responsible for the expected loss based on the total pool loss. Risk is collectively shared among all parties involved.
 
-<mark style="color:blue;">In permissionless blockchain alliances, there is a ‘pooling mechanism’ that offsets principals' risk neutrality and agents' risk aversion</mark>
+Permissionless blockchains have the potential to provide a pooling mechanism that offsets principals' risk neutrality and agents' risk aversion.
 
 <mark style="color:red;">The penultimate assumption of agency theory is that agents are more risk averse than principals because they ‘are unable to diversify their employment’ (</mark>[<mark style="color:red;">Eisenhardt, 1989</mark>](https://www.sciencedirect.com/science/article/pii/S0040162523001671#bb0285)<mark style="color:red;">: 60) while principals ‘are capable of diversifying their investments’ (</mark>[<mark style="color:red;">Eisenhardt, 1989</mark>](https://www.sciencedirect.com/science/article/pii/S0040162523001671#bb0285)<mark style="color:red;">: 61).</mark>&#x20;
 
