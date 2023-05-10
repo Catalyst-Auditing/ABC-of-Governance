@@ -122,7 +122,7 @@ A possible solution is mean-risk sharing where individuals contribute their indi
 
 Permissionless blockchains have the potential to provide a pooling mechanism that offsets principals' risk neutrality and agents' risk aversion.
 
-The blockchain merges the principal / agent relationship into an alliance that spreads infrastructure, data, magangemnet and smart contract risks across different areas.&#x20;
+The blockchain merges the principal / agent relationship into an alliance that spreads infrastructure, data, management and smart contract risks across different areas.&#x20;
 
 <mark style="color:red;">The penultimate assumption of agency theory is that agents are more risk averse than principals because they ‘are unable to diversify their employment’ (</mark>[<mark style="color:red;">Eisenhardt, 1989</mark>](https://www.sciencedirect.com/science/article/pii/S0040162523001671#bb0285)<mark style="color:red;">: 60) while principals ‘are capable of diversifying their investments’ (</mark>[<mark style="color:red;">Eisenhardt, 1989</mark>](https://www.sciencedirect.com/science/article/pii/S0040162523001671#bb0285)<mark style="color:red;">: 61).</mark>&#x20;
 
