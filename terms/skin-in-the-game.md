@@ -142,7 +142,7 @@ Information availability should invalidate information as a commodity in blockch
 
 ## Differences in Blockchain levels and use cases
 
-The "Blockchain Agency Theory" paper does not investigate how different blockchain consensus paradigms, governance practices and use cases may alter the principal-agent relationship.
+The "Blockchain Agency Theory" paper does not investigate in detail how different blockchain consensus mechanisms, governance practices and use cases may alter the principal-agent relationship.
 
 ### Management (agent) and shareholders (principal)
 
