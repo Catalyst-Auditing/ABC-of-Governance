@@ -128,6 +128,8 @@ The blockchain merges the principal / agent relationship into an alliance that s
 
 ### 7 - Information as a commodity / Information availability
 
+The final assumption of agency theory is that information can be purchased for a fee so that principals can avoid adverse selection and moral hazard by acquiring information about agents.
+
 
 
 ## Differences in Blockchain levels and use cases
