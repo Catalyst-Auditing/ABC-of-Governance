@@ -122,46 +122,13 @@ A possible solution is mean-risk sharing where individuals contribute their indi
 
 Permissionless blockchains have the potential to provide a pooling mechanism that offsets principals' risk neutrality and agents' risk aversion.
 
+{% hint style="info" %}
 The blockchain merges the principal / agent relationship into an alliance that spreads infrastructure, data, management and smart contract risks across different areas.&#x20;
-
-<mark style="color:red;">The penultimate assumption of agency theory is that agents are more risk averse than principals because they ‘are unable to diversify their employment’ (</mark>[<mark style="color:red;">Eisenhardt, 1989</mark>](https://www.sciencedirect.com/science/article/pii/S0040162523001671#bb0285)<mark style="color:red;">: 60) while principals ‘are capable of diversifying their investments’ (</mark>[<mark style="color:red;">Eisenhardt, 1989</mark>](https://www.sciencedirect.com/science/article/pii/S0040162523001671#bb0285)<mark style="color:red;">: 61).</mark>&#x20;
-
-<mark style="color:red;">Therefore, in agency theory, numerous scholars describe principals as risk neutral and agents as risk averse (</mark>[<mark style="color:red;">McAfee and McMillan, 1986</mark>](https://www.sciencedirect.com/science/article/pii/S0040162523001671#bb0555)<mark style="color:red;">;</mark> [<mark style="color:red;">Cella, 2005</mark>](https://www.sciencedirect.com/science/article/pii/S0040162523001671#bb0180)<mark style="color:red;">;</mark> [<mark style="color:red;">Barron et al., 2020</mark>](https://www.sciencedirect.com/science/article/pii/S0040162523001671#bb0075)<mark style="color:red;">). By definition, risk underscores the uncertain future facing principals and agents, and the limited influence held by both parties over this future (</mark>[<mark style="color:red;">Haubrich, 1994</mark>](https://www.sciencedirect.com/science/article/pii/S0040162523001671#bb0360)<mark style="color:red;">).</mark>&#x20;
-
-<mark style="color:red;">While recognising uncertainty, principals anticipate profits and agents expect utility as a reward for their efforts (</mark>[<mark style="color:red;">Wang et al., 2020</mark>](https://www.sciencedirect.com/science/article/pii/S0040162523001671#bb0780)<mark style="color:red;">). Two dimensions of risk have been proposed by</mark> [<mark style="color:red;">March and Shapira (1987)</mark>](https://www.sciencedirect.com/science/article/pii/S0040162523001671#bb0550) <mark style="color:red;">hinging on the (1) economic and (2) managerial perspective. In the economic view, ‘risk is the variance of a probability distribution of possible gains and losses associated with a given alternative’ (</mark>[<mark style="color:red;">Bahli and Rivard, 2003a: 211</mark>](https://www.sciencedirect.com/science/article/pii/S0040162523001671#bb0060)<mark style="color:red;">).</mark>&#x20;
-
-<mark style="color:red;">This contrasts with the managerial view in which ‘risk is associated with negative outcomes’ and perceived as ‘danger or hazard’ (</mark>[<mark style="color:red;">Bahli and Rivard, 2003b: 212</mark>](https://www.sciencedirect.com/science/article/pii/S0040162523001671#bb0065)<mark style="color:red;">). Regardless of whether the economic or managerial perspective is taken, the understanding of risks helps principals and agents make decisions on the optimal level of compensation (</mark>[<mark style="color:red;">Lin and Liu, 2021</mark>](https://www.sciencedirect.com/science/article/pii/S0040162523001671#bb0495)<mark style="color:red;">), and all parties ought to absorb a portion of the effects of variable results (</mark>[<mark style="color:red;">Macho-Stadler and Pérez-Castrillo, 2015</mark>](https://www.sciencedirect.com/science/article/pii/S0040162523001671#bb0535)<mark style="color:red;">).</mark>&#x20;
-
-<mark style="color:red;">At any rate, the risk aversion assumption carries an imbalance in risk distribution between principals and agents. As a substitute to this binary risk neutrality versus aversion contention,</mark> [<mark style="color:red;">Choi (2020)</mark>](https://www.sciencedirect.com/science/article/pii/S0040162523001671#bb0200) <mark style="color:red;">has considered a mean-risk approach to explain risk attitude in blockchain environments.</mark>
-
-<mark style="color:red;">It \[mean-risk] is the mechanism by which all parties ‘hand their individual losses over to a pool and each of them is liable for the conditional expectation of his own loss given the total loss of the pool’ (</mark>[<mark style="color:red;">Denuit and Dhaene, 2012</mark>](https://www.sciencedirect.com/science/article/pii/S0040162523001671#bb0245)<mark style="color:red;">: 265). Thus, there are grounds to ponder mean risk as an equalising factor in blockchain alliances.</mark>
-
-* Agency theory assumes that agents are more risk averse than principals.
-* Agents are unable to diversify their employment, while principals can diversify their investments.
-* Principals are described as risk neutral, while agents are seen as risk averse in agency theory.
-* Risk represents the uncertain future faced by both principals and agents, with limited control over it.
-* Principals anticipate profits, while agents expect utility as a reward for their efforts.
-* Risk has two dimensions: the economic perspective and the managerial perspective.
-  * The economic perspective views risk as the variance of possible gains and losses associated with a given alternative.
-  * The managerial perspective sees risk as negative outcomes, danger, or hazard.
-* Understanding risk helps principals and agents make decisions on compensation levels.
-* All parties should absorb a portion of the effects of variable results.
-* The risk aversion assumption creates an imbalance in risk distribution between principals and agents.
-* A mean-risk approach suggests pooling individual losses and holding each party liable for the expected loss based on the total pool loss.
-* Mean-risk can serve as an equalizing factor in blockchain alliances.
-
-<mark style="color:blue;">In permissionless blockchain alliances, there is a ‘pooling mechanism’ that offsets principals' risk neutrality and agents' risk aversion (</mark>[<mark style="color:blue;">Denuit and Dhaene, 2012</mark>](https://www.sciencedirect.com/science/article/pii/S0040162523001671#bb0245)<mark style="color:blue;">: 265).</mark> [<mark style="color:blue;">AICPA (2021)</mark>](https://www.sciencedirect.com/science/article/pii/S0040162523001671#bb0020) <mark style="color:blue;">concurs that this pooling device spreads blockchain risks along the (1) infrastructure, (2) data, (3) management and (4) smart contracts governing the alliance in a manner that is shared by all parties. First, infrastructure risks pertain to blockchain functionalities or capabilities that are exposed to software vulnerabilities (</mark>[<mark style="color:blue;">AICPA, 2021</mark>](https://www.sciencedirect.com/science/article/pii/S0040162523001671#bb0020)<mark style="color:blue;">). Second, data risks are the possibility that off-chain information is stored or transmitted in a computer-legible format to a blockchain and subsequently treated as a transaction. This may include non-standard transactions, data output, out-of-range data and orphan addresses</mark>[<mark style="color:blue;">1</mark>](https://www.sciencedirect.com/science/article/pii/S0040162523001671#fn0005) <mark style="color:blue;">(</mark>[<mark style="color:blue;">AICPA, 2021</mark>](https://www.sciencedirect.com/science/article/pii/S0040162523001671#bb0020)<mark style="color:blue;">). Third, management risks are the threat that public and private keys may be exposed in the course of executing or verifying transitions (</mark>[<mark style="color:blue;">AICPA, 2021</mark>](https://www.sciencedirect.com/science/article/pii/S0040162523001671#bb0020)<mark style="color:blue;">). Finally, smart contract risks describe likely failures in the transfer of value in the course of recording a transaction (</mark>[<mark style="color:blue;">AICPA, 2021</mark>](https://www.sciencedirect.com/science/article/pii/S0040162523001671#bb0020)<mark style="color:blue;">). Once more, through pooling, these risks are more evenly appropriated by parties in a blockchain alliance.</mark>
-
-* In permissionless blockchain alliances, a pooling mechanism is employed to offset the risk neutrality of principals and the risk aversion of agents.
-* The pooling device spreads blockchain risks across different areas of the alliance, including:
-  * Infrastructure risks: related to software vulnerabilities and the exposure of blockchain functionalities and capabilities.
-  * Data risks: encompassing the storage and transmission of off-chain information in a computer-readable format, including non-standard transactions, out-of-range data, data output, and orphan addresses.
-  * Management risks: involving the potential exposure of public and private keys during transaction execution or verification.
-  * Smart contract risks: describing possible failures in transferring value when recording a transaction.
-* Through pooling, these risks are shared and allocated more evenly among the parties in the blockchain alliance.
-* The pooling mechanism helps to mitigate individual risk exposure and promotes a collective responsibility for managing the diverse risks associated with the blockchain technology.
+{% endhint %}
 
 ### 7 - Information as a commodity / Information availability
+
+
 
 ## Differences in Blockchain levels and use cases
 
