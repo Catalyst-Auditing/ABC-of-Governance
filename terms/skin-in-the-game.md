@@ -134,6 +134,8 @@ Adverse selection is a problem that occurs when principals have incomplete infor
 
 Moral hazard is a problem that occurs when agents have an incentive to act in their own interests, even if it is not in the best interests of the principal.
 
+Networks of organizations that partipate in blockchain alliances share information on a distributed ledger. Ideally this eliminates the need for intermediaries, which can lead to increased transparency and trust. This information availability should invalidate information as a commodity in blockchain alliances.
+
 
 
 ## Differences in Blockchain levels and use cases
