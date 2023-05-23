@@ -189,10 +189,9 @@ It's worth noting that the strategies employed to mitigate information asymmetry
 
 Self-executing smart contracts can be used to manage adverse selection and moral hazard by providing formal guarantees and reducing the transaction cost of coordination of business relationships.
 
-Smart contracts can help to mitigate adverse selection by providing potential members with access to complete and transparent information about the alliance.
+Smart contracts can&#x20;
 
-Smart contracts can help to mitigate moral hazard by ensuring that members of the alliance comply with the terms of the contract.
-
-Smart contracts can help to improve the efficiency of corporate governance by eliminating the need for intermediaries and reducing the need for monitoring.
-
-Smart contracts can help to improve the transparency of alliances by making it easier for members to access information about the alliance.
+* Mitigate adverse selection by providing potential members with access to complete and transparent information about the alliance.
+* Mitigate moral hazard by ensuring that members of the alliance comply with the terms of the contract.
+* Improve the efficiency of corporate governance by eliminating the need for intermediaries and reducing the need for monitoring.
+* Improve the transparency of alliances by making it easier for members to access information about the alliance.
