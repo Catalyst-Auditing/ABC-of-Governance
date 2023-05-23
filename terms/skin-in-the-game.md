@@ -170,7 +170,7 @@ aa
 
 ### Mitigation of information asymmetry in a principal-agent relationship
 
-#### ChatGPT 3
+#### Drafted with the assistance of ChatGPT 3
 
 To mitigate the information asymmetry in a principal-agent relationship, the principal can employ various strategies and mechanisms. Here are some common strategies:
 
@@ -182,3 +182,17 @@ To mitigate the information asymmetry in a principal-agent relationship, the pri
 6. **Information Sharing**: The principal can provide the agent with relevant information or resources that can improve the agent's decision-making. By sharing information, the principal can reduce the information gap and improve the agent's ability to act in the principal's best interest.
 
 It's worth noting that the strategies employed to mitigate information asymmetry will depend on the specific context and nature of the principal-agent relationship. The principal may need to assess the costs and benefits of each strategy and determine the most appropriate combination based on the level of information asymmetry and the desired outcomes.
+
+### How Smart Contracts may manage adverse selection and moral hazard
+
+#### Drafted with the assistance of Bard
+
+Self-executing smart contracts can be used to manage adverse selection and moral hazard by providing formal guarantees and reducing the transaction cost of coordination of business relationships.
+
+Smart contracts can help to mitigate adverse selection by providing potential members with access to complete and transparent information about the alliance.
+
+Smart contracts can help to mitigate moral hazard by ensuring that members of the alliance comply with the terms of the contract.
+
+Smart contracts can help to improve the efficiency of corporate governance by eliminating the need for intermediaries and reducing the need for monitoring.
+
+Smart contracts can help to improve the transparency of alliances by making it easier for members to access information about the alliance.
