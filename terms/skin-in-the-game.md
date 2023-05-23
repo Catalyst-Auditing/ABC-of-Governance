@@ -130,6 +130,9 @@ The blockchain merges the principal / agent relationship into an alliance that s
 
 The final assumption of agency theory is that information can be purchased for a fee so that principals can avoid adverse selection and moral hazard by acquiring information about agents.
 
+* Adverse selection is a problem that occurs when principals have incomplete information about agents. This can lead to principals appointing agents who are not qualified for the job.
+* Moral hazard is a problem that occurs when agents have an incentive to act in their own interests, even if it is not in the best interests of the principal.
+
 
 
 ## Differences in Blockchain levels and use cases
