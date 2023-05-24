@@ -8,33 +8,63 @@ coverY: 0
 
 {% embed url="https://youtu.be/7w_5BQXYJfI" %}
 
+## ABC of Governance - Decentralisation
+
 \- ABC of Governance - Decentralisation - [00:00](https://www.youtube.com/watch?v=7w\_5BQXYJfI\&t=0s)&#x20;
+
+## Alexis De Tocqueville on Decentralisation
 
 \- Alexis De Tocqueville on Decentralisation - [00:06](https://www.youtube.com/watch?v=7w\_5BQXYJfI\&t=6s)&#x20;
 
+## Types of Blockchain Networks
+
 \- Types of Blockchain Networks - [00:45](https://www.youtube.com/watch?v=7w\_5BQXYJfI\&t=45s)&#x20;
+
+## Buterin, "The Meaning of Decentralisation"
 
 \- Vitalik Buterin, "The Meaning of Decentralisation" - [01:03](https://www.youtube.com/watch?v=7w\_5BQXYJfI\&t=63s)&#x20;
 
+### Architectural decentralisation
+
 \- Architectural decentralisation - [01:13](https://www.youtube.com/watch?v=7w\_5BQXYJfI\&t=73s)&#x20;
+
+### Political decentralisation
 
 \- Political decentralisation - [01:26](https://www.youtube.com/watch?v=7w\_5BQXYJfI\&t=86s)&#x20;
 
+### Logical decentralisation
+
 \- Logical decentralisation - [01:36](https://www.youtube.com/watch?v=7w\_5BQXYJfI\&t=96s)&#x20;
+
+## Decomposition
 
 \- Decomposition - [01:47](https://www.youtube.com/watch?v=7w\_5BQXYJfI\&t=107s)&#x20;
 
+## Blockchains - 3 Types of decentralisation
+
 \- Blockchains - 3 Types of decentralisation - [01:59](https://www.youtube.com/watch?v=7w\_5BQXYJfI\&t=119s)&#x20;
+
+## How can decentralisation be measured ?
 
 \- How can decentralisation be measured ? - [02:19](https://www.youtube.com/watch?v=7w\_5BQXYJfI\&t=139s)&#x20;
 
+## Edinburgh Decentralisation Index
+
 \- Edinburgh Decentralisation Index - [02:21](https://www.youtube.com/watch?v=7w\_5BQXYJfI\&t=141s)&#x20;
+
+### &#x20;EDI Decentralisation Layers 1 to 4
 
 \- EDI Decentralisation Layers 1 to 4 - [02:37](https://www.youtube.com/watch?v=7w\_5BQXYJfI\&t=157s)&#x20;
 
+### EDI Decentralisation Layers 5 to 8&#x20;
+
 \- EDI Decentralisation Layers 5 to 8 - [03:11](https://www.youtube.com/watch?v=7w\_5BQXYJfI\&t=191s)&#x20;
 
+## Decentralisation Pros & Cons
+
 \- Decentralisation Pros & Cons - [03:46](https://www.youtube.com/watch?v=7w\_5BQXYJfI\&t=226s)&#x20;
+
+## End
 
 \- How can we overcome these challenges and build a decentralised future? - [04:57](https://www.youtube.com/watch?v=7w\_5BQXYJfI\&t=297s)&#x20;
 
