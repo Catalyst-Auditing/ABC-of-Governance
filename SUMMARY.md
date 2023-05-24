@@ -12,6 +12,7 @@
 * [Agency Theory & "Skin in the game"](terms/skin-in-the-game.md)
 * [Blockchain Improvement Proposals](terms/blockchain-improvement-proposals.md)
 * [Decentralization](terms/decentralization.md)
+* [Innovation](terms/innovation.md)
 * [Reputation](terms/reputation.md)
 * [Voltaire Principles](terms/voltaire-principles.md)
 
