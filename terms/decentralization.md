@@ -66,6 +66,8 @@ coverY: 0
 
 \- EDI Decentralisation Layers 1 to 4 - [02:37](https://www.youtube.com/watch?v=7w\_5BQXYJfI\&t=157s)&#x20;
 
+<figure><img src="../.gitbook/assets/Screenshot from 2023-06-14 17-25-28.png" alt=""><figcaption></figcaption></figure>
+
 **Hardware** - diversity in manufacturers of mining equipment and cloud hosting
 
 **Software** - diversity of software products and development teams
