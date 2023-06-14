@@ -30,9 +30,9 @@ Where there is an asymmetry between agent and principal there will be concerns a
 [Principal-agent problem](https://en.wikipedia.org/wiki/Principal%E2%80%93agent\_problem)
 {% endhint %}
 
-Relevance to Decentralisation
+Relevance to Decentralization
 
-Decentralisation has been seen as one way to resolve structural assymetyries.
+Decentralization has been seen as one way to resolve structural assymetyries.
 
 ## Blockchain agency theory <a href="#screen-reader-main-title" id="screen-reader-main-title"></a>
 
