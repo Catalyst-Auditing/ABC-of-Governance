@@ -6,11 +6,11 @@ The phrase "Skin in the game" originated in the 1980s and referred to the amount
 
 The more that was owned by management, the equity stake, was seen as an indication of confidence or stability in the investment. A sign that the management were personally invested and therefore had "skin in the game".
 
-## The phrase "Skin in the game"
+### The phrase "Skin in the game"
 
 Hence the phrase "skin in the game" has come to be seen as having a stake or personal investment that motivates decision making or participation.&#x20;
 
-## Taleb's "Skin in the game"
+### Taleb's "Skin in the game"
 
 Taleb emphasized that "Skin in the game" concerns symmetry&#x20;
 
