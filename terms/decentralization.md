@@ -54,11 +54,15 @@ coverY: 0
 
 ### Sources
 
-* Sok - A Stratified Approcah to Blockchain Decentralisation
+#### Sok - A Stratified Approcah to Blockchain Decentralisation
 
 [Link](https://arxiv.org/pdf/2211.01291.pdf)
 
-* Introducing the Edinburgh Decentralization Index: A powerful new tool to measure decentralization
+#### The first of its kind, introducing the Edinburgh Decentralization Index
+
+{% embed url="https://youtu.be/8GJQDsH854Q" %}
+
+#### Introducing the Edinburgh Decentralization Index: A powerful new tool to measure decentralization
 
 {% embed url="https://youtu.be/h05H3U7XqJg" %}
 
