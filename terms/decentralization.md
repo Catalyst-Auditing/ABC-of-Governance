@@ -52,29 +52,33 @@ coverY: 0
 
 \- Edinburgh Decentralisation Index - [02:21](https://www.youtube.com/watch?v=7w\_5BQXYJfI\&t=141s)&#x20;
 
+{% hint style="info" %}
+Source -
+{% endhint %}
+
 ### &#x20;EDI Decentralisation Layers 1 to 4
 
 \- EDI Decentralisation Layers 1 to 4 - [02:37](https://www.youtube.com/watch?v=7w\_5BQXYJfI\&t=157s)&#x20;
 
-Hardware - diversity in manufacturers of mining equipment and cloud hosting
+**Hardware** - diversity in manufacturers of mining equipment and cloud hosting
 
-Software - diversity of software products and development teams
+**Software** - diversity of software products and development teams
 
-Network - decentralisation on micro level of a specific node’s network access & the macro level of the overall network’s topology
+**Network** - decentralisation on micro level of a specific node’s network access & the macro level of the overall network’s topology
 
-Consensus - categorizes systems based on the mode of participation they allow.
+**Consensus** - categorizes systems based on the mode of participation they allow.
 
 ### EDI Decentralisation Layers 5 to 8&#x20;
 
 \- EDI Decentralisation Layers 5 to 8 - [03:11](https://www.youtube.com/watch?v=7w\_5BQXYJfI\&t=191s)&#x20;
 
-Economics - hazards of initial token distribution, control by few investors & centralisation in few secondary markets.
+**Economics** - hazards of initial token distribution, control by few investors & centralisation in few secondary markets.
 
-API - interaction with the blockchain’s API services and the overall efficiency and scalability of a blockchain.
+**API** - interaction with the blockchain’s API services and the overall efficiency and scalability of a blockchain.
 
-Governance - how peers propose and decide on system improvements and funding allocation
+**Governance** - how peers propose and decide on system improvements and funding allocation
 
-Geography - the geographic & jurisdictional distribution of blockchain systems.
+**Geography** - the geographic & jurisdictional distribution of blockchain systems.
 
 ## Decentralisation Pros & Cons
 
