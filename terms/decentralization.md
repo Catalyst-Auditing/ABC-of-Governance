@@ -80,6 +80,8 @@ coverY: 0
 
 \- EDI Decentralisation Layers 5 to 8 - [03:11](https://www.youtube.com/watch?v=7w\_5BQXYJfI\&t=191s)&#x20;
 
+<figure><img src="../.gitbook/assets/Screenshot from 2023-06-14 17-25-49.png" alt=""><figcaption></figcaption></figure>
+
 **Economics** - hazards of initial token distribution, control by few investors & centralisation in few secondary markets.
 
 **API** - interaction with the blockchain’s API services and the overall efficiency and scalability of a blockchain.
