@@ -53,7 +53,7 @@ coverY: 0
 \- Edinburgh Decentralisation Index - [02:21](https://www.youtube.com/watch?v=7w\_5BQXYJfI\&t=141s)&#x20;
 
 {% hint style="info" %}
-Source -
+Source - [SoK: A Stratified Approach to Blockchain Decentralization](https://arxiv.org/pdf/2211.01291.pdf)
 {% endhint %}
 
 ### &#x20;EDI Decentralisation Layers 1 to 4
