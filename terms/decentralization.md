@@ -52,9 +52,15 @@ coverY: 0
 
 \- Edinburgh Decentralisation Index - [02:21](https://www.youtube.com/watch?v=7w\_5BQXYJfI\&t=141s)&#x20;
 
-{% hint style="info" %}
-Source - [SoK: A Stratified Approach to Blockchain Decentralization](https://arxiv.org/pdf/2211.01291.pdf)
-{% endhint %}
+### Sources
+
+* Sok - A Stratified Approcah to Blockchain Decentralisation
+
+[Link](https://arxiv.org/pdf/2211.01291.pdf)
+
+* Introducing the Edinburgh Decentralization Index: A powerful new tool to measure decentralization
+
+{% embed url="https://youtu.be/h05H3U7XqJg" %}
 
 ### &#x20;EDI Decentralisation Layers 1 to 4
 
