@@ -94,6 +94,22 @@ coverY: 0
 
 \- Decentralisation Pros & Cons - [03:46](https://www.youtube.com/watch?v=7w\_5BQXYJfI\&t=226s)&#x20;
 
+<figure><img src="../.gitbook/assets/Screenshot from 2023-06-14 17-27-57.png" alt=""><figcaption></figcaption></figure>
+
+Some Pros are :&#x20;
+
+* Enhanced security, which relies on extensive node connections and a robust distributed network.&#x20;
+* Improved transparency, which is sensitive to how consensus is built or delegated to.&#x20;
+* Greater privacy, depends upon safe code, test nets and distributed use of wallets.&#x20;
+* And no central authority, decentralised governance is sought as an ideal but is hard to achieve in practice
+
+Some cons are :&#x20;
+
+* Scalability, requiring consensus from every node before any transaction can be executed can lead to slow transaction speeds and increased network congestion.&#x20;
+* Lack of regulation, not being regulated by any central authority can lead to legal and political intervention&#x20;
+* Energy consumption, maintaining a copy of each node on the network can consume a significant amount of computing power and electricity.&#x20;
+* Higher costs, maintaining a copy of the blockchain ledger can increase hardware and storage costs.
+
 
 
 ## End
