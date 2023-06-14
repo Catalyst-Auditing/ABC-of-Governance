@@ -10,6 +10,12 @@ The more that was owned by management, the equity stake, was seen as an indicati
 
 Hence the phrase "skin in the game" has come to be seen as having a stake or personal investment that motivates decision making or participation.&#x20;
 
+## Taleb's "Skin in the game"
+
+Taleb emphasized that "Skin in the game" concerns symmetry&#x20;
+
+
+
 ## Principal–agent problem
 
 "Skin in the game" can be a problem when there is an excess of interest or investment that prejudices participation and/or decision-making. This tendency is called the "principal-agent problem".
@@ -156,9 +162,7 @@ Elections run on-chain may require agent intermediaries ...
 
 Financial instruments or products such as NFTs may require regulation and reporting ...
 
-## Taleb's "Skin in the game"
 
-aa
 
 ## References
 
