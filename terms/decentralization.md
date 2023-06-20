@@ -8,6 +8,10 @@ coverY: 0
 
 {% embed url="https://youtu.be/7w_5BQXYJfI" %}
 
+{% hint style="info" %}
+Tags : Decentralisation
+{% endhint %}
+
 ## ABC of Governance - Decentralisation
 
 \- ABC of Governance - Decentralisation - [00:00](https://www.youtube.com/watch?v=7w\_5BQXYJfI\&t=0s)&#x20;
