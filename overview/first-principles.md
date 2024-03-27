@@ -18,17 +18,13 @@ The First Principles approach seeks to encourage you to "Think for yourself".
 
 Rooted in the Socratic method of Ancient Classical Philosophy the First Principles approach has been advocated by Voltaire ("_Think for yourself and let others enjoy the privilege of doing so too_.") and more recently by Richard Feynman (see the [Feynman Principles](https://blog.dtssydney.com/richard-feynmans-principles-of-scientific-thinking)) and Elon Musk ([The First Principles Method Explained by Elon Musk)](https://youtu.be/NV3sBlRgzTI).
 
-### Thinking for yourself can be lonely
+#### Thinking for yourself can be lonely
 
 "_Do what you want to do And go where you're going to Think for yourself 'Cause I won't be there with you._" - Think for Yourself. The Beatles. 1965
-
-###
 
 ### Define your terms
 
 What do you mean when you use a term such as permissionless or decentralised ?
-
-
 
 ## Resources
 
