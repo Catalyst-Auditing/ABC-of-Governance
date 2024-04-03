@@ -8,6 +8,8 @@ coverY: 0
 
 {% embed url="https://youtu.be/7w_5BQXYJfI" %}
 
+> Stephen Whitenstall
+
 {% hint style="info" %}
 Tags : Decentralisation
 {% endhint %}
