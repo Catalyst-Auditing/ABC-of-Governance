@@ -1,5 +1,7 @@
 # Is Cardano Ethical ?
 
+> Stephen Whitenstall
+
 ## Overview
 
 The proof of stake blockchain Cardano is progressing towards the Voltaire era of its Roadmap ([https://roadmap.cardano.org/en/voltaire/](https://roadmap.cardano.org/en/voltaire/). ). As part of an exercise to establish a constitution the desire to identify community values has been expressed.&#x20;
