@@ -1,3 +1,5 @@
 # Voltaire Principles
 
-{% embed url="https://youtu.be/54GXRyLrNos" %}
+> Stephen Whitenstall
+
+{% embed url="https://www.youtube.com/watch?v=54GXRyLrNos" %}
